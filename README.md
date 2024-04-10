@@ -20,6 +20,11 @@ Podemos dizer que o Tupi foi falado até o final do século XVII, após o que se
 
 ![Mapa Linguistico](mapa_linguistico.png)
 
+![Arvore do Tupi](https://img.socioambiental.org/d/282528-3/tronco-tupi.gif)
+
+![Arvore do Macro-je](https://img.socioambiental.org/d/282531-3/tronco_macro-je.gif)
+
+
 
 ### 1.1. Primeira Fase da Língua Geral
 
@@ -70,9 +75,6 @@ Na colonização da América do Sul pelos portugueses e pelos espanhóis houve p
 
 ## 2. Aspectos Linguísticos
 
-![Arvore do Tupi](https://img.socioambiental.org/d/282528-3/tronco-tupi.gif)
-
-![Arvore do Macro-je](https://img.socioambiental.org/d/282531-3/tronco_macro-je.gif)
 
 ## 2.1. Principais Caracteristicas
 
