@@ -43,7 +43,7 @@ Na segunda situação, a Língua Geral é retomada pelos intelectuais brasileiro
 
 Gonçalves Dias levou o tema do indigenis1notanto para a literatura como para os estudos históricos e etnográficos [[2]].
 
-\[Golçaves Dias](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gon%C3%A7alves_Dias.png/800px-Gon%C3%A7alves_Dias.png)
+![Golçaves Dias](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gon%C3%A7alves_Dias.png/800px-Gon%C3%A7alves_Dias.png)
 
 
 ### 1.3. Terceira Fase da Língua Geral
@@ -102,7 +102,7 @@ Na colonização da América do Sul pelos portugueses e pelos espanhóis houve p
 
 <style>
 nom { color: Blue }
-nomadj { color: Cyan }
+nomadj { color: DarkCyan }
 acu { color: Red }
 vrb { font-weight: bold; }
 local { color: Green }
@@ -144,6 +144,14 @@ Legenda de Cores:
 
 ### 2.2.3. Frases mais longas
 
+![frases1](frases1.png)
+---
+![frases2](frases2.png)
+---
+![frases3](frases3.png)
+
+
+
 <nom>Pedro</nom> <vrb>uikú</vrb> <local>paranã <op>upé</op></local>.
 
 <nom>Pedro</nom> <vrb>está</vrb> <local><op>no</op> rio</local>
@@ -172,9 +180,7 @@ Legenda de Cores:
 
 <nom>São Gabriel</nom> <vrb>é</vrb> <nomadj>uma cidade grande</nomadj> que <vrb>está</vrb> <local>nas margens do rio Negro</local>.
 
-
-
-### 2.2.4. Pergunta binária (SERÁ)
+---
 
 <nom>Maria</nom> <vrb>uikú</vrb> SERÁ <local>igara upé</local>?
 
