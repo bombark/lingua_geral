@@ -41,9 +41,9 @@ tupinambá [[2]].
 
 Na segunda situação, a Língua Geral é retomada pelos intelectuais brasileiros corno um traço cultural típico e demarcador, no campo simbólico e ideológico, da originalidade cultural brasileira, objetivando estabelecer as diferenças entre a história brasileira e a européia [[2]].
 
-Gonçalves Dias levou o tema do indigenis1notanto para a literatura como para os estudos históricos e etnográficos [[2]].
+Gonçalves Dias levou o tema do indigenismo tanto para a literatura como para os estudos históricos e etnográficos [[2]].
 
-![Golçaves Dias](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Gon%C3%A7alves_Dias.png/800px-Gon%C3%A7alves_Dias.png)
+![Golçaves Dias](goncalves_dias.png)
 
 
 ### 1.3. Terceira Fase da Língua Geral
